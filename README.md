@@ -1,4 +1,7 @@
 # Semi-automated Pentesting tool based on user input
-## Steps to setup and execute:
-• Transfer/copy the file over to the dedfilesystem or clone the repository: git clone <address>
-• Run command: python3 %s
+## Setup and Installation
+• Transfer/copy the file over to the dedicated filesystem
+• Clone the repository: `git clone <address>`
+
+## Run
+Run the file using: `python3 %s`
